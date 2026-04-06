@@ -7,6 +7,9 @@ description: Brand KV tone-setting assistant for turning vague brand requests in
 
 将模糊的品牌需求整理成更清晰的主视觉调性、路线和 Wan2.7 出图方案。
 
+这不是提示词助手，也不是给 Wan 外面再包一层生图壳。  
+它真正封装的，不是 prompt 扩写，而是品牌 KV 设计前半段的判断流程。
+
 这套 skill 的本质，不是帮用户“生成一张 KV”，而是先判断：
 - 这次 KV 到底要完成什么任务
 - 第一眼到底要赢哪一个重点

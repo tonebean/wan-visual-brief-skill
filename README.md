@@ -3,7 +3,9 @@
 > 将模糊的品牌需求整理成更清晰的主视觉调性、路线，并借助 Wan 2.7 模型完成生成与必要的局部校正。  
 > Turn vague brand requests into clearer key visual direction, then use Wan 2.7 for generation and targeted refinement.
 
-这不是普通的 prompt 模板。  
+这不是提示词助手，也不是给 Wan 外面再包一层生图壳。  
+它真正做的，是把品牌 KV 设计前半段最依赖经验的判断流程，整理成一套可复用的方法。
+
 它更像一个先帮你判断方向、再进入生成，最后决定该直接用、局部改，还是回去重选路线的品牌主视觉 skill。
 
 它主要服务于品牌视觉设计场景，适合广告公司与独立设计师用于品牌 KV 判断、方向探索与提案预演。
